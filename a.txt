@@ -6,3 +6,5 @@ enviando a funcionalidade
 x
 
 teste
+
+envindo a funcionalidade b
